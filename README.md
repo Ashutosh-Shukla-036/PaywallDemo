@@ -53,8 +53,7 @@ A modern, fully-featured paywall demonstration application built with React, Typ
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd paywall-demo-ui
+   git clone repository-url](https://github.com/Ashutosh-Shukla-036/PaywallDemo
    ```
 
 2. **Install dependencies**
@@ -70,11 +69,6 @@ A modern, fully-featured paywall demonstration application built with React, Typ
 4. **Build for production**
    ```bash
    npm run build
-   ```
-
-5. **Preview production build**
-   ```bash
-   npm run preview
    ```
 
 ## 🎯 Usage Guide
